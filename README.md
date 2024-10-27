@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Frontend development**
 
-- 📫 How to reach me **prabnificent@gmail.com**
+- 📫 How to reach me **prabnificentpandey@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
 
